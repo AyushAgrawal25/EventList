@@ -1,0 +1,16 @@
+.event-list .event-list-head {
+  text-align: center;
+}
+
+.event-list .event-list-head h1 {
+  color: #181818;
+}
+
+.event-list .event-list-events {
+  text-align: left;
+  font-size: 25px;
+  font-weight: 500;
+  color: #181818;
+  padding: 0 10%;
+}
+/*# sourceMappingURL=EventList.css.map */
